@@ -1,4 +1,4 @@
-<b>To fetch: git clone -reponame-</b>
+<b>To fetch: git clone https://github.com/PeterRangelov/ui-project-template</b>
 
 <b>Install dev dependencies</b>
 <ol>
@@ -7,6 +7,7 @@
 </ol>
 
 <b>Start server</b>
-gulp serve (development)
-npm start (express server)
-
+<ul>
+	<li>gulp serve (development)</li>
+	<li>npm start (express server)</li>
+</ul>
