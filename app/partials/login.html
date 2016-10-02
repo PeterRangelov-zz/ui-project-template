@@ -1,0 +1,17 @@
+<div class='col-xs-12'>
+	<form>
+	
+		<h1>User Login</h1>
+		<input type='text' name='username' ng-model='username' class='form-control input-sm' maxlength='30' placeholder='Username'>
+		<input type='text' name='username' ng-model='password' class='form-control input-sm' maxlength='30' placeholder='Password'>
+		<label class="checkbox-inline">
+			<input type="checkbox" name='remember' value='remember_me' ng-model='remember'>Remember me
+		</label>
+		<br>
+		
+		<button type='submit' class='btn btn-primary' ng-click='login(username, password)'>Sign in</button>
+	
+		<br>
+	
+	</form>
+</div>
