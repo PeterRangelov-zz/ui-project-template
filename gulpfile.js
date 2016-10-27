@@ -63,7 +63,7 @@ gulp.task('build', function() {
 
     gulp.src(['app/**/*.js'])
     .pipe(plumber())
-    .pipe(minify({ext: {src: '*', min: '.js'}}))
+    .pipe(uglify())
     .pipe(gulp.dest('dist'));
 
   gulp.src(['bower_components/**/*'])

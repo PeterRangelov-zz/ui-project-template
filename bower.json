@@ -1,5 +1,5 @@
 {
-  "name": "Auto Rewards UI",
+  "name": "UI Project Template",
   "authors": [
     "PeterRangelov <peter.rangelov11@gmail.com>"
   ],
@@ -15,12 +15,22 @@
     "tests"
   ],
   "dependencies": {
-    "angular-ui-bootstrap": "^2.0.0",
-    "angular-route": "^1.5.8",
-    "bootstrap": "^3.3.7",
-    "angular": "^1.5.8",
+    "angular": "1.5.8",
     "font-awesome": "fontawesome#^4.6.3",
+    "angular-animate": "~1.5.3",
+    "angular-cookies": "~1.5.3",
+    "angular-sanitize": "~1.5.3",
+    "angular-messages": "~1.5.3",
+    "angular-aria": "~1.5.3",
+    "angular-resource": "~1.5.3",
+    "angular-route": "~1.5.3",
+    "bootstrap-sass": "~3.3.5",
     "angular-bootstrap": "^2.0.0",
+    "angular-toastr": "~1.5.0",
+    "moment": "~2.10.6",
+    "animate.css": "~3.4.0",
+    "bootstrap": "^3.3.6",
+    "angular-ui-grid": "^3.2.9",
     "string-format-js": "^0.1.8"
   }
 }
