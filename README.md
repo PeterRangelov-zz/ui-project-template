@@ -1,4 +1,4 @@
-<b>To fetch: git clone https://github.com/PeterRangelov/ui-project-template</b>
+<b>To fetch: git clone https://github.com/PeterRangelov/ui-project-template <NAME OF PROJECT></b>
 
 <b>Install dev dependencies</b>
 <ol>
